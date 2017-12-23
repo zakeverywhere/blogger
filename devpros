@@ -1,0 +1,14 @@
+dive into webpack/babel/gulp
+especially webpack
+
+
+note:
+install 
+webpack
+babel-core
+babel-loader
+babel-preset-react
+babel-preset-es2015
+
+
+api+routing -> react setup(react,reactdom,abov dev tool)->start react app

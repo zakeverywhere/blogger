@@ -1,0 +1,4 @@
+export default {
+	BLOG_CREATED: 'BLOG_CREATED',
+	BLOGS_RECEIVED: 'BLOGS_RECEIVED'
+}
